@@ -1,14 +1,14 @@
 [
   {
     "cliente_id": "cliente001",
-    "status": "bloqueado",
-    "validade": "2026-05-22T07:00:00.000Z",
+    "status": "ativo",
+    "validade": "2026-05-22",
     "licencas": "CPLUSTESTE"
   },
   {
     "cliente_id": "cliente002",
     "status": "ativo",
-    "validade": "2025-05-10T07:00:00.000Z",
+    "validade": "2025-05-10T0",
     "licencas": "ABC-5678-TESTE"
   },
   {
