@@ -1,6 +1,12 @@
 [
   {
     "cliente_id": "cliente001",
+    "status": "ativo",
+    "validade": "2025-12-31",
+    "licencas": "00400000001000000000000"
+  }
+   {
+    "cliente_id": "cliente002",
     "status": "bloqueado",
     "validade": "2025-12-31",
     "licencas": "00400000001000000000000"
