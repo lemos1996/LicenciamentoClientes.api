@@ -1,7 +1,7 @@
 [
   {
     "cliente_id": "cliente001",
-    "status": "ativo",
+    "status": "bloqueado",
     "validade": "2028-05-22",
     "licencas": "00300000001000000000000"
   },
