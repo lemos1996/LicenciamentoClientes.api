@@ -1,26 +1,8 @@
 [
   {
-    "cliente_id": "cliente001",
+    "cliente_id": "123456789",
     "status": "ativo",
-    "validade": "2027-05-22",
-    "licencas": "CPLUSTESTE"
-  },
-  {
-    "cliente_id": "cliente002",
-    "status": "ativo",
-    "validade": "2025-05-10T0",
-    "licencas": "ABC-5678-TESTE"
-  },
-  {
-    "cliente_id": "cliente003",
-    "status": "ativo",
-    "validade": "2025-05-20T07:00:00.000Z",
-    "licencas": "add-56897-teste"
-  },
-  {
-    "cliente_id": "cliente004",
-    "status": "ativo",
-    "validade": "",
-    "licencas": ""
+    "validade": "2025-12-31",
+    "chave": "00400000001000000000000"
   }
 ]
