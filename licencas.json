@@ -3,24 +3,28 @@
     "cliente_id": "cliente001",
     "status": "ativo",
     "validade": "2026-05-22",
-    "licencas": "CPLUSTESTE"
+    "nomecliente":"cplusteste"
+    "licencas": "00200000001000000000000"
   },
   {
     "cliente_id": "cliente002",
     "status": "ativo",
-    "validade": "2025-05-10T0",
-    "licencas": "IRMAO DO ELIAS ELETROWAS"
+    "validade": "2025-05-10",
+    "nomecliente":"cplusteste"
+    "licencas": "00200000001000000000000"
   },
   {
     "cliente_id": "cliente003",
     "status": "ativo",
-    "validade": "2025-05-20T07:00:00.000Z",
-    "licencas": "add-56897-teste"
+    "validade": "2025-05-10",
+    "nomecliente":"cplusteste"
+    "licencas": "00200000001000000000000"
   },
   {
     "cliente_id": "cliente004",
     "status": "ativo",
-    "validade": "",
-    "licencas": ""
+    "validade": "2025-05-10",
+    "nomecliente":"cplusteste"
+    "licencas": "00200000001000000000000"
   }
 ]
