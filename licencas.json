@@ -1,10 +1,10 @@
 [
   {
     "cliente_id": "cliente001",
-    "nome": "lemos teste",
-    "status": "bloqueado",
-    "validade": "2028-05-22",
-    "licencas": "300000001000000000000"
+    "nome": "lemos testeok",
+    "status": null,
+    "validade": null,
+    "licencas": "00500000001000000000000"
   },
   {
     "cliente_id": "cliente002",
