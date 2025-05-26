@@ -29,7 +29,7 @@
   },
   {
     "cliente_id": "cliente006",
-    "status": "bloqueado",
+    "status": "ativo",
     "validade": "2028-05-22",
     "licencas": "",
     "nome": "teste"
