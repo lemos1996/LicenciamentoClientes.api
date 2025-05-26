@@ -2,9 +2,9 @@
   {
     "cliente_id": "cliente001",
     "nome": "lemos testeok",
-    "status": "bloqueado",
+    "status": "ativo",
     "validade": "2028-05-28",
-    "licencas": "500000001000000000000"
+    "licencas": "00500000001000000000000"
   },
   {
     "cliente_id": "cliente002",
