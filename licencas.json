@@ -26,5 +26,12 @@
     "status": "bloqueado",
     "validade": "",
     "licencas": ""
+  },
+  {
+    "cliente_id": "cliente006",
+    "status": "bloqueado",
+    "validade": "2028-05-22",
+    "licencas": "",
+    "nome": "teste"
   }
 ]
