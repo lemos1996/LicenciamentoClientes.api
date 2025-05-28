@@ -15,17 +15,17 @@
   },
   {
     "cliente_id": "cliente003",
-    "nome": null,
+    "nome": "cliente jorge",
     "status": "ativo",
     "validade": "2025-05-20",
-    "licencas": null
+    "licencas": "00100000001000000000000"
   },
   {
     "cliente_id": "cliente004",
-    "nome": "Cliente Desconhecido",
-    "status": "bloqueado",
-    "validade": "",
-    "licencas": ""
+    "nome": "NILSON oficina stihl",
+    "status": "ativo",
+    "validade": "2026-05-20",
+    "licencas": "00200000001000000000000"
   },
   {
     "cliente_id": "cliente006",
