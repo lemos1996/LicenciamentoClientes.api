@@ -28,10 +28,10 @@
     "licencas": "00200000001000000000000"
   },
   {
-    "cliente_id": "cliente006",
+    "cliente_id": "cliente005",
     "status": "ativo",
     "validade": "2028-05-22",
-    "licencas": "",
+    "licencas": "00200000001000000000000",
     "nome": "teste"
   }
 ]
