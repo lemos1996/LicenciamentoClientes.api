@@ -33,5 +33,12 @@
     "validade": "2028-05-22",
     "licencas": "00200000001000000000000",
     "nome": "teste"
+  },
+  {
+    "cliente_id": "cliente006",
+    "status": "ativo",
+    "validade": "25/05/2026",
+    "licencas": "0020000",
+    "nome": "vaga"
   }
 ]
