@@ -1,8 +1,8 @@
 [
   {
     "cliente_id": "cliente001",
-    "status": "ativo",
-    "validade": "2028-06-30",
+    "status": "bloqueado",
+    "validade": "2028-06-15",
     "licencas": "00500000001000000000000",
     "nome": "lemos testeok"
   },
