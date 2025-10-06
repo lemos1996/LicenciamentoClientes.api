@@ -9,7 +9,7 @@
   {
     "cliente_id": "cliente002",
     "nome": "irmao do elias eletro",
-    "status": "ativo",
+    "status": "bloqueado",
     "validade": "2025-05-23",
     "licencas": "00400000001000000000000"
   },
