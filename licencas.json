@@ -8,10 +8,10 @@
   },
   {
     "cliente_id": "cliente002",
-    "nome": "irmao do elias eletro",
-    "status": "bloqueado",
-    "validade": "2025-05-23",
-    "licencas": "00400000001000000000000"
+    "nome": null,
+    "status": null,
+    "validade": null,
+    "licencas": null
   },
   {
     "cliente_id": "cliente003",
