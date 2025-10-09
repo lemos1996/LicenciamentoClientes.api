@@ -31,8 +31,8 @@
     "cliente_id": "cliente005",
     "status": "ativo",
     "validade": "2028-05-22",
-    "licencas": "00200000001000000000000",
-    "nome": "teste"
+    "licencas": null,
+    "nome": null
   },
   {
     "cliente_id": "cliente006",
