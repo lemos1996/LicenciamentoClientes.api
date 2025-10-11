@@ -36,7 +36,7 @@
   },
   {
     "cliente_id": "cliente006",
-    "status": "bloqueado",
+    "status": "ativo",
     "validade": "2026-05-31",
     "licencas": "00200000001000000000000",
     "nome": "CLIENTE trairao"
