@@ -43,7 +43,7 @@
   },
   {
     "cliente_id": "cliente007",
-    "status": "bloqueado",
+    "status": "ativo",
     "validade": "2027-05-31",
     "licencas": "",
     "nome": "brassendako",
