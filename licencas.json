@@ -48,5 +48,13 @@
     "licencas": "",
     "nome": "brassendako",
     "hwid": "03000200-0400-0500-0006-000700080009"
+  },
+  {
+    "cliente_id": "cliente009",
+    "status": "ativo",
+    "validade": "",
+    "licencas": "00200000001000000000000",
+    "nome": "LEMOS",
+    "metodo": "dll"
   }
 ]
