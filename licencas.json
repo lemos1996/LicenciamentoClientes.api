@@ -52,7 +52,7 @@
   {
     "cliente_id": "cliente009",
     "status": "ativo",
-    "validade": "",
+    "validade": "2027-05-05",
     "licencas": "00200000001000000000000",
     "nome": "LEMOS",
     "metodo": "dll"
