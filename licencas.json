@@ -51,8 +51,8 @@
   },
   {
     "cliente_id": "cliente009",
-    "status": "bloqueado",
-    "validade": "2026-11-21",
+    "status": "ativo",
+    "validade": "2026-10-11",
     "licencas": "00200000001000000000000",
     "nome": "LEMOS",
     "metodo": "servico",
