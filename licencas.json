@@ -57,6 +57,6 @@
     "nome": "LEMOS",
     "metodo": "servico",
     "hardware_id": "23AAD4C50B1DAE72",
-    "trava_deslizante": true
+    "trava_deslizante": false
   }
 ]
