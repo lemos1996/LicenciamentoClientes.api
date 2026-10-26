@@ -56,6 +56,7 @@
     "licencas": "00200000001000000000000",
     "nome": "LEMOS",
     "metodo": "servico",
-    "hardware_id": "23AAD4C50B1DAE72"
+    "hardware_id": "23AAD4C50B1DAE72",
+    "trava_deslizante": false
   }
 ]
